@@ -21,7 +21,7 @@ public HomeWindow() {
     imgViewPascal.setFitHeight(500);
     imgViewPascal.setFitWidth(300);
 
-    Label title = new Label("Roeiboten");
+    Label title = new Label("Roeiboten vereniging");
     title.setStyle("-fx-font-size: 50px");
     title.relocate(100, 100);
 
